@@ -2,7 +2,7 @@
 void print_out(unsigned int n);
 void print_digit(unsigned int n);
 int main() {
-    // Write C code here
+    
     unsigned int n = 1237832;
     print_out(n);
     
